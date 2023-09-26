@@ -14,6 +14,12 @@ Repositories I often contribute to:
 [![Shopware 5](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=shopware)](https://github.com/shopware/shopware)
 [![Shopware 6 Documentation](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=docs)](https://github.com/shopware/docs)
 
+Repositories I liked to contribute to as well:
+
+[![PHP](https://github-readme-stats.vercel.app/api/pin/?username=php&repo=php-src)](https://github.com/php/php-src/)
+[![PHPunuhi](https://github-readme-stats.vercel.app/api/pin/?username=boxblinkracer&repo=phpunuhi)](https://github.com/boxblinkracer/phpunuhi/)
+[![Shopware 6 Documentation](https://github-readme-stats.vercel.app/api/pin/?username=mollie&repo=Shopware6)](https://github.com/mollie/Shopware6/)
+
 I found some tools, that you can put on your profile. Let's see what GitHub knows about my activity:
 
 ![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=JoshuaBehrens&show_icons=true&count_private=true&theme=city_lights)
