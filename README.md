@@ -19,6 +19,7 @@ Repositories I liked to contribute to as well:
 [![PHP](https://github-readme-stats.vercel.app/api/pin/?username=php&repo=php-src)](https://github.com/php/php-src/)
 [![PHPunuhi](https://github-readme-stats.vercel.app/api/pin/?username=boxblinkracer&repo=phpunuhi)](https://github.com/boxblinkracer/phpunuhi/)
 [![Shopware 6 Documentation](https://github-readme-stats.vercel.app/api/pin/?username=mollie&repo=Shopware6)](https://github.com/mollie/Shopware6/)
+[![GitHub Unwrapped 2022](https://github-readme-stats.vercel.app/api/pin/?username=remotion-dev&repo=github-unwrapped-2022)](https://github.com/remotion-dev/github-unwrapped-2022/)
 
 I found some tools, that you can put on your profile. Let's see what GitHub knows about my activity:
 
@@ -27,3 +28,5 @@ I found some tools, that you can put on your profile. Let's see what GitHub know
 … or what I do a lot
 
 ![Non official GitHub trophies](https://github-profile-trophy.vercel.app/?username=JoshuaBehrens&column=3&margin-w=15&margin-h=15&theme=onestar&rank=-C,-B)
+
+[![An image of @joshuabehrens's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshuabehrens)](https://holopin.io/@joshuabehrens)
