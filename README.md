@@ -10,9 +10,15 @@ Software, where I am a core contributor:
 
 Repositories I often contribute to:
 
-[![Shopware 6](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=platform)](https://github.com/shopware/platform)
-[![Shopware 5](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=shopware)](https://github.com/shopware/shopware)
+[![Shopware 6](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=shopware)](https://github.com/shopware/shopware)
+[![Shopware 5](https://github-readme-stats.vercel.app/api/pin/?username=shopware5&repo=shopware)](https://github.com/shopware5/shopware)
 [![Shopware 6 Documentation](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=docs)](https://github.com/shopware/docs)
+
+Repositories I currently contribute to:
+
+[![Shopware 6](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=shopware)](https://github.com/shopware/shopware/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+author%3AJoshuaBehrens)
+[![Symfony](https://github-readme-stats.vercel.app/api/pin/?username=symfony&repo=symfony)](https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+author%3AJoshuaBehrens)
+[![Twig](https://github-readme-stats.vercel.app/api/pin/?username=shopware&repo=docs)](https://github.com/twigphp/Twig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+author%3AJoshuaBehrens)
 
 Repositories I liked to contribute to as well:
 
